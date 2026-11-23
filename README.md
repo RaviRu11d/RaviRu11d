@@ -17,16 +17,23 @@
 
 ---
 
-<img align="right" width="180" src="./pepe_spacesuit.png" alt="Astronaut Pepe" />
-
 ### ◈ Overview
+
+<table>
+  <tr>
+    <td width="68%" valign="middle">
 
 - **Research & Publication:** Authored and presented ***Neural Network-Based Analysis of Asteroid Spectral Taxonomy*** at **IEEE ICNGWCET-2026**.
 - **Scientific ML:** Building GPU-accelerated clustering, anomaly detection, and representation learning pipelines across 1M+ orbital records.
 - **Applied AI & Tooling:** Creator of [**fixerr**](https://pypi.org/project/fixerr/) (`pip install fixerr`), a published local-first semantic error memory engine with hybrid retrieval and a Textual TUI.
 - **Credentials:** MCA in AI/ML (Galgotias University) · **ISRO BAH 2026** Certificate of Achievement · **IASC** Citizen Science Data Analyst · **DeepLearning.AI & Stanford Online** ML Specialization.
 
-<br clear="right" />
+    </td>
+    <td width="32%" align="center" valign="middle">
+      <img width="200" src="./pepe_spacesuit.png" alt="Astronaut Pepe" />
+    </td>
+  </tr>
+</table>
 
 ---
 
