@@ -17,12 +17,16 @@
 
 ---
 
+<img align="right" width="180" src="./pepe_spacesuit.png" alt="Astronaut Pepe" />
+
 ### ◈ Overview
 
 - **Research & Publication:** Authored and presented ***Neural Network-Based Analysis of Asteroid Spectral Taxonomy*** at **IEEE ICNGWCET-2026**.
 - **Scientific ML:** Building GPU-accelerated clustering, anomaly detection, and representation learning pipelines across 1M+ orbital records.
 - **Applied AI & Tooling:** Creator of [**fixerr**](https://pypi.org/project/fixerr/) (`pip install fixerr`), a published local-first semantic error memory engine with hybrid retrieval and a Textual TUI.
 - **Credentials:** MCA in AI/ML (Galgotias University) · **ISRO BAH 2026** Certificate of Achievement · **IASC** Citizen Science Data Analyst · **DeepLearning.AI & Stanford Online** ML Specialization.
+
+<br clear="right" />
 
 ---
 
@@ -63,15 +67,12 @@
 
 ### ▤ GitHub Analytics
 
-<div align="center">
-  <img height="172" src="https://github-stats-extended.vercel.app/api?username=RaviRu11d&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=e4e8f0&text_color=9da3ae&icon_color=e4e8f0&border_color=262930&border_radius=10" alt="Ravi Saini GitHub Stats" />
-  <img height="172" src="https://streak-stats.demolab.com?user=RaviRu11d&background=0d1117&border=262930&border_radius=10&stroke=262930&ring=e4e8f0&fire=e4e8f0&currStreakNum=f4f6fa&sideNums=e4e8f0&currStreakLabel=c7ccd6&sideLabels=9da3ae&dates=767d8a" alt="GitHub Streak" />
-</div>
-
-<br />
+<p align="center">
+  <img width="46%" src="https://github-stats-extended.vercel.app/api?username=RaviRu11d&show_icons=true&rank_icon=github&card_width=495&bg_color=0d1117&title_color=e4e8f0&text_color=9da3ae&icon_color=e4e8f0&border_color=262930&border_radius=10" alt="Ravi Saini GitHub Stats" />&nbsp;<img width="46%" src="https://streak-stats.demolab.com?user=RaviRu11d&background=0d1117&border=262930&border_radius=10&stroke=262930&ring=e4e8f0&fire=e4e8f0&currStreakNum=f4f6fa&sideNums=e4e8f0&currStreakLabel=c7ccd6&sideLabels=9da3ae&dates=767d8a" alt="GitHub Streak" />
+</p>
 
 <div align="center">
-  <img width="96%" src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=RaviRu11d&bg_color=0d1117&color=9da3ae&line=e4e8f0&point=ffffff&area=true&area_color=232730&custom_title=Contribution%20Graph&radius=10&border_color=262930" alt="Contribution Activity Graph" />
+  <img width="94%" src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=RaviRu11d&bg_color=0d1117&color=9da3ae&line=e4e8f0&point=ffffff&area=true&area_color=232730&custom_title=Contribution%20Graph&radius=10&border_color=262930" alt="Contribution Activity Graph" />
 </div>
 
 ---
