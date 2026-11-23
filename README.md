@@ -1,39 +1,32 @@
 <div align="center">
 
-<sub><code>· · ✦ ──────────── ◎ ──────────── ✦ · ·</code></sub>
-
 # Ravi Saini
 
 **Data Science · Machine Learning · Scientific Computing**
 
-*ML Researcher &amp; Developer mapping planetary datasets, building neural architectures, and shipping local-first AI tools.*
+*ML Researcher &amp; Developer building scalable ML pipelines, neural architectures, and local-first AI tools.*
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-e4e8f0?style=for-the-badge&logo=vercel&logoColor=131416)](https://sites.google.com/view/ravi-saini-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-16181d?style=for-the-badge&logo=vercel&logoColor=e4e8f0)](https://sites.google.com/view/ravi-saini-portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-16181d?style=for-the-badge&logo=linkedin&logoColor=e4e8f0)](https://www.linkedin.com/in/ravi-sainirs/)
 [![Resume](https://img.shields.io/badge/Resume-16181d?style=for-the-badge&logo=googledrive&logoColor=e4e8f0)](https://drive.google.com/file/d/1r7hc5NZBcpPL4ZPePnJXGtj9x5Y4Bdey/view?usp=sharing)
-[![PyPI](https://img.shields.io/badge/PyPI_·_fixerr-16181d?style=for-the-badge&logo=pypi&logoColor=e4e8f0)](https://pypi.org/project/fixerr/)
 [![Email](https://img.shields.io/badge/Email-16181d?style=for-the-badge&logo=gmail&logoColor=e4e8f0)](mailto:ravisaini2062002@gmail.com)
-
-<br />
-
-<sub><code>ORBITAL TELEMETRY · 1.03M+ ASTEROIDS MODELED · IEEE ICNGWCET-2026 · PYPI AUTHOR</code></sub>
 
 </div>
 
 ---
 
-### `01 ·` Overview `◌`
+### 🧠 Overview
 
 - **Research & Publication:** Authored and presented ***Neural Network-Based Analysis of Asteroid Spectral Taxonomy*** at **IEEE ICNGWCET-2026**.
-- **Planetary & Scientific ML:** Building GPU-accelerated clustering, anomaly detection, and representation learning pipelines across 1M+ orbital records.
+- **Scientific ML:** Building GPU-accelerated clustering, anomaly detection, and representation learning pipelines across 1M+ orbital records.
 - **Applied AI & Tooling:** Creator of [**fixerr**](https://pypi.org/project/fixerr/) (`pip install fixerr`), a published local-first semantic error memory engine with hybrid retrieval and a Textual TUI.
 - **Credentials:** MCA in AI/ML (Galgotias University) · **ISRO BAH 2026** Certificate of Achievement · **IASC** Citizen Science Data Analyst · **DeepLearning.AI & Stanford Online** ML Specialization.
 
 ---
 
-### `02 ·` Selected Work `◎`
+### 🚀 Selected Work
 
 | Project | Focus & Key Results | Core Stack |
 | :--- | :--- | :--- |
@@ -42,7 +35,7 @@
 | [**Fixerr — Semantic Error Memory Engine**](https://github.com/RaviRu11d/fixerr) · [**PyPI ↗**](https://pypi.org/project/fixerr/) | Local-first CLI error tracker with shell hooks, secret redaction, SQLite deduplication, hybrid search &amp; provider-agnostic LLMs. | `Python` `SQLite` `Embeddings` `Textual TUI` |
 
 <details>
-<summary><strong>◌ Additional Repositories (3)</strong></summary>
+<summary><strong>📁 Additional Repositories (3)</strong></summary>
 <br />
 
 | Project | Summary | Core Stack |
@@ -55,7 +48,7 @@
 
 ---
 
-### `03 ·` Technical Stack `◦`
+### ⚙️ Technical Stack
 
 | Area | Technologies |
 | :--- | :--- |
@@ -68,29 +61,27 @@
 
 ---
 
-### `04 ·` GitHub Telemetry `✦`
+### 📊 GitHub Analytics
 
 <div align="center">
   <img height="172" src="https://github-readme-stats.vercel.app/api?username=RaviRu11d&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=e4e8f0&text_color=9da3ae&icon_color=e4e8f0&border_color=262930&border_radius=10" alt="Ravi Saini GitHub Stats" />
-  <img height="172" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RaviRu11d&theme=github_dark&utcOffset=5.5" alt="Commits by Hour (IST)" />
+  <img height="172" src="https://streak-stats.demolab.com?user=RaviRu11d&background=0d1117&border=262930&border_radius=10&stroke=262930&ring=e4e8f0&fire=e4e8f0&currStreakNum=f4f6fa&sideNums=e4e8f0&currStreakLabel=c7ccd6&sideLabels=9da3ae&dates=767d8a" alt="GitHub Streak" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=RaviRu11d&background=0d1117&border=262930&border_radius=10&stroke=262930&ring=e4e8f0&fire=e4e8f0&currStreakNum=f4f6fa&sideNums=e4e8f0&currStreakLabel=c7ccd6&sideLabels=9da3ae&dates=767d8a" alt="GitHub Streak" />
+  <img width="96%" src="https://github-profile-trophy.vercel.app/?username=RaviRu11d&theme=darkhub&no-frame=false&margin-w=10&margin-h=10&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 <br />
 
 <div align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=RaviRu11d&bg_color=0d1117&color=9da3ae&line=e4e8f0&point=ffffff&area=true&area_color=232730&custom_title=Contribution%20Telemetry&radius=10&border_color=262930" alt="Contribution Telemetry Graph" />
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=RaviRu11d&bg_color=0d1117&color=9da3ae&line=e4e8f0&point=ffffff&area=true&area_color=232730&custom_title=Contribution%20Graph&radius=10&border_color=262930" alt="Contribution Activity Graph" />
 </div>
 
 ---
 
 <div align="center">
-  <sub><code>· · ✦ ──────────── ◌ ──────────── ✦ · ·</code></sub>
-  <br /><br />
-  <sub>Exploring ML Research, Data Science &amp; AI Engineering · <a href="https://sites.google.com/view/ravi-saini-portfolio">Portfolio ↗</a> · <a href="mailto:ravisaini2062002@gmail.com">ravisaini2062002@gmail.com</a></sub>
+  <sub>Open to ML Research, Data Science &amp; AI Engineering · <a href="https://sites.google.com/view/ravi-saini-portfolio">Portfolio ↗</a> · <a href="mailto:ravisaini2062002@gmail.com">ravisaini2062002@gmail.com</a></sub>
 </div>
