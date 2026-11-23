@@ -17,7 +17,7 @@
 
 ---
 
-### 🧠 Overview
+### ◈ Overview
 
 - **Research & Publication:** Authored and presented ***Neural Network-Based Analysis of Asteroid Spectral Taxonomy*** at **IEEE ICNGWCET-2026**.
 - **Scientific ML:** Building GPU-accelerated clustering, anomaly detection, and representation learning pipelines across 1M+ orbital records.
@@ -26,7 +26,7 @@
 
 ---
 
-### 🚀 Selected Work
+### ◆ Selected Work
 
 | Project | Focus & Key Results | Core Stack |
 | :--- | :--- | :--- |
@@ -35,7 +35,7 @@
 | [**Fixerr — Semantic Error Memory Engine**](https://github.com/RaviRu11d/fixerr) · [**PyPI ↗**](https://pypi.org/project/fixerr/) | Local-first CLI error tracker with shell hooks, secret redaction, SQLite deduplication, hybrid search &amp; provider-agnostic LLMs. | `Python` `SQLite` `Embeddings` `Textual TUI` |
 
 <details>
-<summary><strong>📁 Additional Repositories (3)</strong></summary>
+<summary><strong>▸ Additional Repositories (3)</strong></summary>
 <br />
 
 | Project | Summary | Core Stack |
@@ -48,7 +48,7 @@
 
 ---
 
-### ⚙️ Technical Stack
+### ◫ Technical Stack
 
 | Area | Technologies |
 | :--- | :--- |
@@ -61,23 +61,25 @@
 
 ---
 
-### 📊 GitHub Analytics
+### ▤ GitHub Analytics
 
 <div align="center">
-  <img height="172" src="https://github-readme-stats.vercel.app/api?username=RaviRu11d&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=e4e8f0&text_color=9da3ae&icon_color=e4e8f0&border_color=262930&border_radius=10" alt="Ravi Saini GitHub Stats" />
+  <img height="172" src="https://github-stats-extended.vercel.app/api?username=RaviRu11d&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=e4e8f0&text_color=9da3ae&icon_color=e4e8f0&border_color=262930&border_radius=10" alt="Ravi Saini GitHub Stats" />
   <img height="172" src="https://streak-stats.demolab.com?user=RaviRu11d&background=0d1117&border=262930&border_radius=10&stroke=262930&ring=e4e8f0&fire=e4e8f0&currStreakNum=f4f6fa&sideNums=e4e8f0&currStreakLabel=c7ccd6&sideLabels=9da3ae&dates=767d8a" alt="GitHub Streak" />
 </div>
 
 <br />
 
 <div align="center">
-  <img width="96%" src="https://github-profile-trophy.vercel.app/?username=RaviRu11d&theme=darkhub&no-frame=false&margin-w=10&margin-h=10&row=1&column=6" alt="GitHub Trophies" />
+  <img width="96%" src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=RaviRu11d&bg_color=0d1117&color=9da3ae&line=e4e8f0&point=ffffff&area=true&area_color=232730&custom_title=Contribution%20Graph&radius=10&border_color=262930" alt="Contribution Activity Graph" />
 </div>
 
 <br />
 
 <div align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=RaviRu11d&bg_color=0d1117&color=9da3ae&line=e4e8f0&point=ffffff&area=true&area_color=232730&custom_title=Contribution%20Graph&radius=10&border_color=262930" alt="Contribution Activity Graph" />
+  <img src="https://img.shields.io/github/stars/RaviRu11d?affiliations=OWNER&style=flat-square&label=STARS&labelColor=16181d&color=262930&logo=github&logoColor=e4e8f0" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/followers/RaviRu11d?style=flat-square&label=FOLLOWERS&labelColor=16181d&color=262930&logo=github&logoColor=e4e8f0" alt="GitHub Followers" />
+  <a href="https://pypi.org/project/fixerr/"><img src="https://img.shields.io/pypi/dm/fixerr?style=flat-square&label=FIXERR%20PYPI%20%2F%20MO&labelColor=16181d&color=262930&logo=pypi&logoColor=e4e8f0" alt="Fixerr PyPI Downloads" /></a>
 </div>
 
 ---
