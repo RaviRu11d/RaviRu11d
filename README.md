@@ -74,14 +74,6 @@
   <img width="96%" src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=RaviRu11d&bg_color=0d1117&color=9da3ae&line=e4e8f0&point=ffffff&area=true&area_color=232730&custom_title=Contribution%20Graph&radius=10&border_color=262930" alt="Contribution Activity Graph" />
 </div>
 
-<br />
-
-<div align="center">
-  <img src="https://img.shields.io/github/stars/RaviRu11d?affiliations=OWNER&style=flat-square&label=STARS&labelColor=16181d&color=262930&logo=github&logoColor=e4e8f0" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/followers/RaviRu11d?style=flat-square&label=FOLLOWERS&labelColor=16181d&color=262930&logo=github&logoColor=e4e8f0" alt="GitHub Followers" />
-  <a href="https://pypi.org/project/fixerr/"><img src="https://img.shields.io/pypi/dm/fixerr?style=flat-square&label=FIXERR%20PYPI%20%2F%20MO&labelColor=16181d&color=262930&logo=pypi&logoColor=e4e8f0" alt="Fixerr PyPI Downloads" /></a>
-</div>
-
 ---
 
 <div align="center">
